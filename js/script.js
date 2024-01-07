@@ -31,14 +31,14 @@ $(document).ready(function(){
     
 //    typing script
 var typed=new Typed(".typing",{
-    strings:["Developer","Programmer","Full Stack Developer","Designer","Blogger"],
+    strings:["Software Engineer","Programmer","Developer","Designer","Data Analyst"],
     typeSpeed:100,
     backSpeed:60,
     loop:true
 });
 
 var typed=new Typed(".typing-2",{
-    strings:["Developer","Programmer","Full Stack Developer","Designer","Blogger"],
+    strings:["Software Engineer","Programmer","Developer","Designer","Data Analyst"],
     typeSpeed:100,
     backSpeed:60,
     loop:true
